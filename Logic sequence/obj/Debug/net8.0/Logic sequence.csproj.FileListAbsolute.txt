@@ -1,0 +1,14 @@
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\obj\Debug\net8.0\Logic sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\obj\Debug\net8.0\Logic sequence.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\obj\Debug\net8.0\Logic sequence.AssemblyInfo.cs
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\obj\Debug\net8.0\Logic sequence.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\bin\Debug\net8.0\Logic sequence.exe
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\bin\Debug\net8.0\Logic sequence.deps.json
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\bin\Debug\net8.0\Logic sequence.runtimeconfig.json
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\bin\Debug\net8.0\Logic sequence.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\bin\Debug\net8.0\Logic sequence.pdb
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\obj\Debug\net8.0\Logic sequence.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\obj\Debug\net8.0\refint\Logic sequence.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\obj\Debug\net8.0\Logic sequence.pdb
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\obj\Debug\net8.0\Logic sequence.genruntimeconfig.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\Logic sequence\obj\Debug\net8.0\ref\Logic sequence.dll

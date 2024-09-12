@@ -1,0 +1,14 @@
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\bin\Debug\net8.0\SumValue.exe
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\bin\Debug\net8.0\SumValue.deps.json
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\bin\Debug\net8.0\SumValue.runtimeconfig.json
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\bin\Debug\net8.0\SumValue.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\bin\Debug\net8.0\SumValue.pdb
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\obj\Debug\net8.0\SumValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\obj\Debug\net8.0\SumValue.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\obj\Debug\net8.0\SumValue.AssemblyInfo.cs
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\obj\Debug\net8.0\SumValue.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\obj\Debug\net8.0\SumValue.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\obj\Debug\net8.0\refint\SumValue.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\obj\Debug\net8.0\SumValue.pdb
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\obj\Debug\net8.0\SumValue.genruntimeconfig.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\SumValue\obj\Debug\net8.0\ref\SumValue.dll

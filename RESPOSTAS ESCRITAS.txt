@@ -1,0 +1,36 @@
+1 - O Código e aplicação estão na pasta FibonacciSequence.
+
+2 - O Código e aplicação estão na pasta FindStringA.
+
+3 - O valor de SOMA será 77(Rascunho na pasta SumValue ).
+
+4 - Rascunho na pasta Logic sequence
+
+a) 9
+
+b) 128
+
+c) 49
+
+d) 100
+
+e)13 (Sequência Fibonacci)
+
+f)200 (todos os números devem começar com D).
+
+5 - Caso tivesse a opção de tocar as lâmpadas, eu ligaria  o primeiro interruptor,
+ deixaria por um tempo maior e  então desligaria, ligaria logo em seguida o segundo
+ interruptor. Enfim temos esse cenário: 
+1° ida(interruptor 1 quente , interruptor 2 
+ligado, interruptor 3 desligado ou frio) 
+Se estivesse quente, era ligado ao interruptor 
+1, se estivesse ligado, ao interruptor 2, e se estivesse desligado e frio, estaria ligado 
+ao interruptor 3. 
+
+2° ida/2° sala 
+Sabendo qual é o interruptor da primeira sala, você eliminaria uma escolha.
+fazendo a mesma lógica de que se Se estivesse quente, era ligado ao interruptor 1, 
+se estivesse ligado, ao interruptor 2, e se estivesse desligado e frio, estaria ligado ao
+ interruptor 3. Com isso sobraria apenas uma opção de interruptor, essa seria a opção da 
+sua sala. E você teria ligado cada uma das lâmpadas , apenas uma das vezes e a lâmpada 3 
+nenhuma vez.

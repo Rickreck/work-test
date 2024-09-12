@@ -1,0 +1,14 @@
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\bin\Debug\net8.0\FindStringA.exe
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\bin\Debug\net8.0\FindStringA.deps.json
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\bin\Debug\net8.0\FindStringA.runtimeconfig.json
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\bin\Debug\net8.0\FindStringA.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\bin\Debug\net8.0\FindStringA.pdb
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\obj\Debug\net8.0\FindStringA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\obj\Debug\net8.0\FindStringA.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\obj\Debug\net8.0\FindStringA.AssemblyInfo.cs
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\obj\Debug\net8.0\FindStringA.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\obj\Debug\net8.0\FindStringA.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\obj\Debug\net8.0\refint\FindStringA.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\obj\Debug\net8.0\FindStringA.pdb
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\obj\Debug\net8.0\FindStringA.genruntimeconfig.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FindStringA\obj\Debug\net8.0\ref\FindStringA.dll

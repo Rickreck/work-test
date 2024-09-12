@@ -1,0 +1,14 @@
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\obj\Debug\net8.0\desafio da empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\obj\Debug\net8.0\desafio da empresa.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\obj\Debug\net8.0\desafio da empresa.AssemblyInfo.cs
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\obj\Debug\net8.0\desafio da empresa.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\bin\Debug\net8.0\desafio da empresa.exe
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\bin\Debug\net8.0\desafio da empresa.deps.json
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\bin\Debug\net8.0\desafio da empresa.runtimeconfig.json
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\bin\Debug\net8.0\desafio da empresa.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\bin\Debug\net8.0\desafio da empresa.pdb
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\obj\Debug\net8.0\desafio da empresa.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\obj\Debug\net8.0\refint\desafio da empresa.dll
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\obj\Debug\net8.0\desafio da empresa.pdb
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\obj\Debug\net8.0\desafio da empresa.genruntimeconfig.cache
+C:\Users\HOME\Documents\Programação do lixo\desafio da empresa\FibonacciSequence\obj\Debug\net8.0\ref\desafio da empresa.dll
